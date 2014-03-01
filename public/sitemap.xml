@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://blog.vishaltomar.in/blog/2014/03/02/my-first-blog/</loc>
+        <lastmod>2014-03-02T01:55:04+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://blog.vishaltomar.in/robots.txt</loc>
         <lastmod>2014-03-02T01:15:57+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.vishaltomar.in/</loc>
-        <lastmod>2014-03-02T01:15:57+05:30</lastmod>
+        <lastmod>2014-03-02T01:55:04+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.vishaltomar.in/blog/archives/</loc>
-        <lastmod>2014-03-02T01:15:57+05:30</lastmod>
+        <lastmod>2014-03-02T01:55:04+05:30</lastmod>
     </url>
 </urlset>

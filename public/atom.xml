@@ -4,7 +4,7 @@
   <title><![CDATA[Vishal Tomar's Blog]]></title>
   <link href="http://blog.vishaltomar.in/atom.xml" rel="self"/>
   <link href="http://blog.vishaltomar.in/"/>
-  <updated>2014-03-02T01:38:54+05:30</updated>
+  <updated>2014-03-02T01:55:13+05:30</updated>
   <id>http://blog.vishaltomar.in/</id>
   <author>
     <name><![CDATA[Vishal Tomar]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog]]></title>
+    <link href="http://blog.vishaltomar.in/blog/2014/03/02/my-first-blog/"/>
+    <updated>2014-03-02T01:49:11+05:30</updated>
+    <id>http://blog.vishaltomar.in/blog/2014/03/02/my-first-blog</id>
+    <content type="html"><![CDATA[<h1>This is Really Exciting</h1>
+]]></content>
+  </entry>
   
 </feed>
