@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Vishal Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-03-02T01:20:35+05:30</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Vishal Tomar's Blog]]></title>
+  <link href="http://blog.vishaltomar.in/atom.xml" rel="self"/>
+  <link href="http://blog.vishaltomar.in/"/>
+  <updated>2014-03-02T01:26:20+05:30</updated>
+  <id>http://blog.vishaltomar.in/</id>
   <author>
     <name><![CDATA[Vishal Tomar]]></name>
     
