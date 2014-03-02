@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blogging | Vishal Tomar's Blog]]></title>
   <link href="http://blog.vishaltomar.in/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://blog.vishaltomar.in/"/>
-  <updated>2014-03-02T20:32:43+05:30</updated>
+  <updated>2014-03-02T20:39:45+05:30</updated>
   <id>http://blog.vishaltomar.in/</id>
   <author>
     <name><![CDATA[Vishal Tomar]]></name>
@@ -95,7 +95,7 @@ git add .
 git commit -m 'site updated'
 git push heroku master
 </code>
-That&rsquo;s it you just deployed your blogging site. you can open the url given by heroku and check it out.</p>
+That&rsquo;s it you just deployed your blogging site. you can open the url given by heroku and check it out.Now you have to <a href="http://octopress.org/docs/configuring/">configure</a> it as per your liking</p>
 ]]></content>
   </entry>
   
