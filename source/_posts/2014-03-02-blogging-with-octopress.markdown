@@ -6,7 +6,7 @@ comments: true
 categories: [Blogging,Octopress]
 ---
 
-For a long time I really wanted to start a blog. Now I had a great number of options, it was really difficult to choose. So I figured its only fitting, the first blog I write, should be about **How to deploy a pro blog**.
+For a long time I really wanted to start a blog. So, I was thinking about what platform to choose. Now I had a great number of options, and to choose one of them, it was more difficult than I thought. So I figured its only fitting, the first blog I write, should be about **How to deploy a pro blog**. Well that too in just 5 minutes.
 
 <!-- more -->
 

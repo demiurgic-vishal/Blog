@@ -4,7 +4,7 @@
   <title><![CDATA[Vishal Tomar's Blog]]></title>
   <link href="http://blog.vishaltomar.in/atom.xml" rel="self"/>
   <link href="http://blog.vishaltomar.in/"/>
-  <updated>2014-03-02T20:50:09+05:30</updated>
+  <updated>2014-03-02T21:00:51+05:30</updated>
   <id>http://blog.vishaltomar.in/</id>
   <author>
     <name><![CDATA[Vishal Tomar]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.vishaltomar.in/blog/2014/03/02/blogging-with-octopress/"/>
     <updated>2014-03-02T01:49:11+05:30</updated>
     <id>http://blog.vishaltomar.in/blog/2014/03/02/blogging-with-octopress</id>
-    <content type="html"><![CDATA[<p>For a long time I really wanted to start a blog. Now I had a great number of options, it was really difficult to choose. So I figured its only fitting, the first blog I write, should be about <strong>How to deploy a pro blog</strong>.</p>
+    <content type="html"><![CDATA[<p>For a long time I really wanted to start a blog. So, I was thinking about what platform to choose. Now I had a great number of options, and to choose one of them, it was more difficult than I thought. So I figured its only fitting, the first blog I write, should be about <strong>How to deploy a pro blog</strong>. Well that too in just 5 minutes.</p>
 
 <!-- more -->
 
