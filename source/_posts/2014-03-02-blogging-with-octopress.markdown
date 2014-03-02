@@ -72,4 +72,4 @@ git add .
 git commit -m 'site updated'
 git push heroku master 
 ```
-That's it you just deployed your blogging site. you can open the url given by heroku and check it out.
+That's it you just deployed your blogging site. you can open the url given by heroku and check it out.Now you have to [configure](http://octopress.org/docs/configuring/) it as per your liking
