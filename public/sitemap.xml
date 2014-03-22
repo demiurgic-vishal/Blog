@@ -2,18 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.vishaltomar.in/blog/2014/03/02/blogging-with-octopress/</loc>
-        <lastmod>2014-03-02T21:00:34+05:30</lastmod>
+        <lastmod>2014-03-04T15:37:49+05:30</lastmod>
     </url>
     <url>
-        <loc>http://blog.vishaltomar.in/robots.txt</loc>
-        <lastmod>2014-03-02T01:15:57+05:30</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.vishaltomar.in/</loc>
-        <lastmod>2014-03-02T21:00:34+05:30</lastmod>
+        <loc>http://blog.vishaltomar.in/blog/2014/03/21/getting-started-with-rails/</loc>
+        <lastmod>2014-03-22T12:50:43+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.vishaltomar.in/blog/archives/</loc>
-        <lastmod>2014-03-02T21:00:34+05:30</lastmod>
+        <lastmod>2014-03-22T12:50:43+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.vishaltomar.in/robots.txt</loc>
+        <lastmod>2014-03-04T15:37:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.vishaltomar.in/</loc>
+        <lastmod>2014-03-22T12:50:43+05:30</lastmod>
     </url>
 </urlset>
