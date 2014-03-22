@@ -4,7 +4,7 @@
   <title><![CDATA[Vishal Tomar's Blog]]></title>
   <link href="http://blog.vishaltomar.in/atom.xml" rel="self"/>
   <link href="http://blog.vishaltomar.in/"/>
-  <updated>2014-03-22T13:53:32+05:30</updated>
+  <updated>2014-03-22T13:57:14+05:30</updated>
   <id>http://blog.vishaltomar.in/</id>
   <author>
     <name><![CDATA[Vishal Tomar]]></name>
@@ -88,7 +88,7 @@
 </ol>
 
 
-<p>I hope this basic introduction to the  Rails gives you some idea as to what Rails is and how it can be useful to your needs. While Rails is already a great platform its still evolving and I see it acquiring a much larger place in the web development space.</p>
+<p>I hope this basic introduction to the  Rails gives you some idea as to what Rails is and how it can be useful to your needs. While Rails is already a great platform its still evolving and I see it acquiring a much larger place in the web development space in the future.</p>
 
 <p>In the second part of this tutorial we will get rolling with Ruby on Rails, install the engine, deploy our first rails app and take a closer look at Rails’ inner workings. I will also provide links to some good tutorials and further reading materials on the web. So stay tuned.</p>
 ]]></content>

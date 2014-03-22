@@ -70,6 +70,6 @@ In general there are really no prerequisites for learning Rails, but I recommend
 
 4. **Start using version control** : This is more of a bonus then a prereq. Get familiar with a version control system(preferably [git](http://git-scm.com/)) as most of Rails community uses Git. This will also help you in handling your source code much better. 
 
-I hope this basic introduction to the  Rails gives you some idea as to what Rails is and how it can be useful to your needs. While Rails is already a great platform its still evolving and I see it acquiring a much larger place in the web development space. 
+I hope this basic introduction to the  Rails gives you some idea as to what Rails is and how it can be useful to your needs. While Rails is already a great platform its still evolving and I see it acquiring a much larger place in the web development space in the future. 
 
 In the second part of this tutorial we will get rolling with Ruby on Rails, install the engine, deploy our first rails app and take a closer look at Rails’ inner workings. I will also provide links to some good tutorials and further reading materials on the web. So stay tuned.
