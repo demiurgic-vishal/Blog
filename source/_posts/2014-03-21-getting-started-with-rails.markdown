@@ -48,6 +48,8 @@ This means that entities in Rails have to named in a certain conventional way. T
 
 Another key philosophical principle behind Ruby on Rails is commonly expressed as **Don't Repeat Yourself (DRY)**. The idea behind _DRYness_ is to minimized duplicate code. At the application level you can reuse Rails code via helpers, or at the language level via class inheritance. Rails also allows for HTML snippet reuse via partials. But in addition to helpers, class inheritance, and partials, Rails has a great plugin mechanism where a you can import and reuse a large set of core Web 2.0 functionality.
 
+{% img center https://i.chzbgr.com/maxW500/1036028672/hF2EBA6B4/  Don't Repeat Yourself %}
+
 ##But why Rails?
 Now that you have some feel as to what Rails is, lets try to answer the question as why someone should use Rails.
 
