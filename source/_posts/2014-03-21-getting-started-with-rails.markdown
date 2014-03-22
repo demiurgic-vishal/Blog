@@ -72,4 +72,6 @@ In general there are really no prerequisites for learning Rails, but I recommend
 
 I hope this basic introduction to the  Rails gives you some idea as to what Rails is and how it can be useful to your needs. While Rails is already a great platform its still evolving and I see it acquiring a much larger place in the web development space in the future. 
 
+While I have tried to explain all the components as simply as possible, don't worry if you still find it a bit complex. You will get a better feel about Rails once we go into the second part of this article, as it would contain code snippets that you can try on your own, I wanted to first introduce the basic philosophy behind Rails, that's why this article is more of theoretical nature. Once we go into the second part I will take a more of hands-on approach.
+
 In the second part of this tutorial we will get rolling with Ruby on Rails, install the engine, deploy our first rails app and take a closer look at Rails’ inner workings. I will also provide links to some good tutorials and further reading materials on the web. So stay tuned.
