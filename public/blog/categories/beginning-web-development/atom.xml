@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Beginning Web Development | Vishal Tomar's Blog]]></title>
   <link href="http://blog.vishaltomar.in/blog/categories/beginning-web-development/atom.xml" rel="self"/>
   <link href="http://blog.vishaltomar.in/"/>
-  <updated>2014-03-22T12:50:44+05:30</updated>
+  <updated>2014-03-22T13:53:32+05:30</updated>
   <id>http://blog.vishaltomar.in/</id>
   <author>
     <name><![CDATA[Vishal Tomar]]></name>
@@ -61,6 +61,8 @@
 <h3>Don&rsquo;t Repeat Yourself (DRY)</h3>
 
 <p>Another key philosophical principle behind Ruby on Rails is commonly expressed as <strong>Don&rsquo;t Repeat Yourself (DRY)</strong>. The idea behind <em>DRYness</em> is to minimized duplicate code. At the application level you can reuse Rails code via helpers, or at the language level via class inheritance. Rails also allows for HTML snippet reuse via partials. But in addition to helpers, class inheritance, and partials, Rails has a great plugin mechanism where a you can import and reuse a large set of core Web 2.0 functionality.</p>
+
+<p><img class="center <a" src="href="https://i.chzbgr.com/maxW500/1036028672/hF2EBA6B4/">https://i.chzbgr.com/maxW500/1036028672/hF2EBA6B4/</a>" title="Don&rsquo;t Repeat Yourself" ></p>
 
 <h2>But why Rails?</h2>
 
